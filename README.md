@@ -1,6 +1,6 @@
 # three.jsを学ぶリポジトリ
 
-
+[ここからみれます](https://shogofunaguchi.github.io/practice-three/)
 
 ## 方針
 - GH pagesで見れるようにする
